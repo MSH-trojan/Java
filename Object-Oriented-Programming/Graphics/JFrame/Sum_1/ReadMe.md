@@ -1,5 +1,7 @@
 # Java_21_JFrame_Sum_1
 
+A Simple Calculator – an example of action processed by the JFrame application 
+
 Create a frame which contains 3 textfields and a button.
 
 The user is supposed to enter two numbers in the first 2 textfields and then click the button.
