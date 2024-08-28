@@ -1,6 +1,6 @@
- a Frame application called Test in which we test various ways to program JLabel, JTextfield, JPasswordField and JButton objects.
+# Notes to be aware of:
 
-#Notes to be aware of:
+ a Frame application called Test in which we test various ways to program JLabel, JTextfield, JPasswordField and JButton objects.
 
 The action in the textfields is based on the private class TextFieldHandler
 
@@ -8,7 +8,7 @@ The action of the button is using a no-name event listener.
 
 In this Test the method actionPerformed() is using the class JOptionPane for display.
 
-##On the use of No-name Class
+## On the use of No-name Class
 
 In the previous example the action of the textfields  was processed by the object handler of the private (or inner) class TextFieldHandler,
 
