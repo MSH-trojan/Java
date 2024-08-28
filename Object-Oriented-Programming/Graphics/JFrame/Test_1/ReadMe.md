@@ -1,5 +1,4 @@
-
-
+ a Frame application called Test in which we test various ways to program JLabel, JTextfield, JPasswordField and JButton objects.
 
 #Notes to be aware of:
 
