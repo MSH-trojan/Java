@@ -2,7 +2,7 @@
 
 The program shown illustrates the way in which you should create and use JTextArea objects.
 
-## Note: Three ways to code action
+## Note: Three ways to code actionListener:
 
 Have the JFrame application implementing ActionListener, like in the class Sum.
 
