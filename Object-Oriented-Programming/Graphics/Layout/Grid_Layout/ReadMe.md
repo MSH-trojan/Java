@@ -1,4 +1,4 @@
-# Grid Layout
+# The Grid Layout Concept
 
 1 - Divides container into a grid of specified rows and columns.
 
