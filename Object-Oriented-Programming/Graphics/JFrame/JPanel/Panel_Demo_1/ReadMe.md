@@ -4,7 +4,7 @@ Program shows that how panels are displayed in the container. each panel can hav
 
 ## Overview
 
-1 - This program is showing the basics of a JPanel that we can use in this regard to have different parts 
+1 - This program explains the basics of a JPanel that we can use in this regard to have different parts 
 on our Container.
 
 2 - then we make an array of Buttons and we set its size to 5 as we want 5 buttons.
