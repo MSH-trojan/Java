@@ -1,5 +1,7 @@
 # Java_21_Panel_Demo_1
 
+Program shows that how panels are displayed in the container. each panel can have different layouts and different gui components within them.
+
 ## Overview
 
 1 - This program is showing the basics of a JPanel that we can use in this regard to have different parts 
